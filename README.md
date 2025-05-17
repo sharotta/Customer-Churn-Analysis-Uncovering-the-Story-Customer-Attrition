@@ -1,8 +1,18 @@
 # Customer_Churn_Analysis
 Power BI analysis of telecommunication customer churn using DAX to uncover key churn drivers, tenure trends, payment behavior, and actionable retention insights.
+## Table Of Content
+- [Project Overview](#project-overview)
+- [Objectives](#objectives)
+- [Data Source](#data-source)
+- [Tools](#tools)
+- [Dataset Description](#dataset-description)
+- [Data Cleaning & Preprocessing](#dataset-cleaning--preparations)
+- [Data Analysis & Visualization](#data-analysis-visualization)
+- [Recommendations](#recommendations)
+- [Conclusion](#conclusion)
+
 
 ## Project Overview
-
 The telecommunication industry faces high customer churn rates, leading to revenue loss. By analyzing churn patterns, a company can implement strategic retention plans, improve customer experience, and optimize pricing models. 
 
 ## Objectives 
